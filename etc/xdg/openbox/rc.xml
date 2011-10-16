@@ -381,6 +381,11 @@
 
   # end of the example
 -->
+  <application class="*">
+    <decor>no</decor>
+    <focus>yes</focus>
+    <maximized>yes</maximized>
+  </application>
 </applications>
 
 </openbox_config>
