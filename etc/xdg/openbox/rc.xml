@@ -381,10 +381,14 @@
 
   # end of the example
 -->
-  <application class="*">
+  <application class="firefox-bin">
     <decor>no</decor>
     <focus>yes</focus>
     <maximized>yes</maximized>
+  </application>
+  <application class="*">
+    <decor>no</decor>
+    <focus>yes</focus>
   </application>
 </applications>
 
