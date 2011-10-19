@@ -49,7 +49,7 @@
 
 <theme>
   <name>Clearlooks</name>
-  <titleLayout></titleLayout>
+  <titleLayout>LCN</titleLayout>
   <!--
       available characters are NDSLIMC, each can occur at most once.
       N: window icon
@@ -381,12 +381,12 @@
 
   # end of the example
 -->
-  <application class="firefox-bin">
+  <application name="firefox-bin">
     <decor>no</decor>
     <focus>yes</focus>
     <maximized>yes</maximized>
   </application>
-  <application class="*">
+  <application name="*">
     <decor>no</decor>
     <focus>yes</focus>
   </application>
