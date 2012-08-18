@@ -1,3 +1,5 @@
 @xscreensaver -no-splash
 #@openbox
+@florence
+@/usr/lib/at-spi/at-spi-registryd
 @lxpanel --profile LXDE
